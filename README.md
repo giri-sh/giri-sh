@@ -2,7 +2,7 @@
 
 Beyond the event horizon, data streams converge.
 
-.--.---.--- ● ---.---.---.---.---.--- ● ---.---.---.---.---.--- ● ---.---.---.---.---.--- ● ---.---.---.---.---.--- ● ---.---.---.
+.--.---.--- ● ---.---.---.---.---.--- ● ---.---.---.---.---.--- ● ---.---.---.---.---.--- ● ---.---.---.---.---.---.
 
 ## About Me (Sector 7G - Personal Log)
 
@@ -18,19 +18,19 @@ I am a Code Voyager navigating the digital cosmos, specializing in crafting robu
 
 *The Force is with us... "for now." My mission is to ensure it remains so by building resilient and adaptable solutions. Redundancy everywhere isn't just a motto, it's a principle for survival in the chaotic digital universe.*
 
-.---.---.--- ● ---.---.---.---.---.--- ● ---.---.---.---.---.--- ● ---.---.---.---.---.--- ● ---.---.---.---.---.--- ● ---.---.---.
+.---.---.--- ● ---.---.---.---.---.--- ● ---.---.---.---.---.--- ● ---.---.---.---.---.--- ● ---.---.---.---.---.---.
 
 ## GitHub Stats (Gravitational Anomaly Scanner)
 
 [![Girish's GitHub stats](https://github-readme-stats.vercel.app/api?username=giri-sh&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giri-sh&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-.---.---.--- ● ---.---.---.---.---.--- ● ---.---.---.---.---.--- ● ---.---.---.---.---.--- ● ---.---.---.---.---.--- ● ---.---.---.
+.---.---.--- ● ---.---.---.---.---.--- ● ---.---.---.---.---.--- ● ---.---.---.---.---.--- ● ---.---.---.---.---.---.
 
 ## Current Signal (Active Transmissions)
 My current directive: to study and accumulate vast knowledge from across the charted and uncharted digital universe.
 
-.---.---.--- ● ---.---.---.---.---.--- ● ---.---.---.---.---.--- ● ---.---.---.---.---.--- ● ---.---.---.---.---.--- ● ---.---.---.
+.---.---.--- ● ---.---.---.---.---.--- ● ---.---.---.---.---.--- ● ---.---.---.---.---.--- ● ---.---.---.---.---.---.
 
 ## Contact (Subspace Comms)
 [Connect via X/Twitter](https://x.com/girish_sortur)
