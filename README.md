@@ -2,7 +2,7 @@
 
 Beyond the event horizon, data streams converge.
 
-.--.---.--- ● ---.---.---.---.---.--- ● ---.---.---.---.---.--- ● ---.---.---.---.---.--- ● ---.---.---.---.---.---.
+._._._●_._._.
 
 ## About Me (Sector 7G - Personal Log)
 
@@ -15,22 +15,24 @@ I am a Code Voyager navigating the digital cosmos, specializing in crafting robu
 *   **Java:** The reliable workhorse, powering complex architectures across the galaxy.
 *   **Kotlin:** The sleek interceptor, enabling concise and efficient development.
 *   **GoLang:** The warp drive, for high-performance, concurrent applications that push the boundaries.
+*   **Python:** The versatile probe, adaptable for scripting, data analysis, and exploring ancient alien codebases.
+*   **JavaScript:** The universal translator, bridging realities across the web and enabling dynamic intergalactic communication.
 
 *The Force is with us... "for now." My mission is to ensure it remains so by building resilient and adaptable solutions. Redundancy everywhere isn't just a motto, it's a principle for survival in the chaotic digital universe.*
 
-.---.---.--- ● ---.---.---.---.---.--- ● ---.---.---.---.---.--- ● ---.---.---.---.---.--- ● ---.---.---.---.---.---.
+._._._●_._._.
 
 ## GitHub Stats (Gravitational Anomaly Scanner)
 
 [![Girish's GitHub stats](https://github-readme-stats.vercel.app/api?username=giri-sh&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giri-sh&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-.---.---.--- ● ---.---.---.---.---.--- ● ---.---.---.---.---.--- ● ---.---.---.---.---.--- ● ---.---.---.---.---.---.
+._._._●_._._.
 
 ## Current Signal (Active Transmissions)
 My current directive: to study and accumulate vast knowledge from across the charted and uncharted digital universe.
 
-.---.---.--- ● ---.---.---.---.---.--- ● ---.---.---.---.---.--- ● ---.---.---.---.---.--- ● ---.---.---.---.---.---.
+._._._●_._._.
 
 ## Contact (Subspace Comms)
 [Connect via X/Twitter](https://x.com/girish_sortur)
